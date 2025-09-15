@@ -1,0 +1,12 @@
+# Build files
+target/
+*.jar
+*.war
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
